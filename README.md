@@ -1,2 +1,2 @@
 # excel_translator
-An  excel macro to translate discrete text and produce new translated excel sheets.  
+An  VBA script to translate discrete text and produce translated excel sheets.  
